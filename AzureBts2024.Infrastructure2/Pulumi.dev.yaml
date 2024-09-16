@@ -1,0 +1,6 @@
+config:
+  AzureBts2024.Infrastructure2:appPath: ./app
+  AzureBts2024.Infrastructure2:errorDocument: error.html
+  AzureBts2024.Infrastructure2:indexDocument: index.html
+  AzureBts2024.Infrastructure2:sitePath: ./www
+  azure-native:location: WestUS

@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureBts2024.App": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7227",
+      "launchBrowser": false
+    }
+  }
+}
